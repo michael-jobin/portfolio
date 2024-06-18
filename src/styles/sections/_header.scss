@@ -1,0 +1,14 @@
+.header {
+  position: fixed;
+  background-color: white;
+  border-bottom: 1px solid $text;
+  width: calc(100% - 2rem);
+  height: var(--header-height);
+  z-index: 99;
+  top: 0;
+  left: 1rem;
+  padding-top: var(--header-padding-top);
+  @include sp {
+    height: 4.3rem;
+  }
+}

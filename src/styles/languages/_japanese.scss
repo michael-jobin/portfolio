@@ -1,0 +1,43 @@
+em {
+  font-size: 2.2rem;
+  line-height: 1.8;
+  letter-spacing: 0.05em;
+  font-feature-settings: 'palt';
+  // transform: translateY(-0.4rem);
+  // margin-top: -0.3rem;
+  // display: inline-block;
+  // margin-top: -2rem;
+  // display: inline-block;
+  @include sp {
+    font-size: 1.9rem;
+  }
+}
+
+.langSelect em {
+  display: inline-block;
+  transform: translateY(-0.3rem);
+}
+
+.ja {
+  .tagSelectButton__title {
+    em {
+      line-height: 1.6;
+    }
+  }
+  .tagSelectButton__title svg {
+    margin: 0rem 0 0 0.8rem;
+  }
+  .header__select__options {
+    transform: translateX(-35%);
+    padding: 1.5rem 2.5rem;
+    em {
+      line-height: 1.5;
+    }
+  }
+  // .aboutResume__main {
+  //   :first-child em {
+  //     display: inline-block;
+  //     margin-top: -0.3rem;
+  //   }
+  // }
+}

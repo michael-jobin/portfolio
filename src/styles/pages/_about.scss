@@ -1,0 +1,41 @@
+.aboutResume {
+  &__head {
+    text-align: center;
+    border-bottom: 1px solid $text;
+    // padding: 2rem 0 2rem;
+    padding: var(--basic-padding-top) 0 var(--basic-padding-bottom);
+    @include sp {
+      text-align: left;
+    }
+  }
+  &__body {
+    // padding: 2rem 0 2rem;
+    padding: var(--basic-padding-top) 0 var(--basic-padding-bottom);
+  }
+  &__row {
+    // padding: 2rem 0;
+    &:not(:last-child) {
+      padding-bottom: 2rem;
+      // border-bottom: 1px solid $text;
+    }
+  }
+  &__years {
+    font-weight: 400;
+    grid-column: 6 / span 1;
+    text-align: right;
+    @include sp {
+      grid-column: 1 / span 2;
+    }
+  }
+  &__main {
+    grid-column: 1 / span 3;
+    @include sp {
+      grid-column: 3 / span 4;
+    }
+    strong,
+    i {
+      font-weight: 400;
+      display: block;
+    }
+  }
+}

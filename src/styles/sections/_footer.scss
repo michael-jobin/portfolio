@@ -1,0 +1,7 @@
+.footer {
+  border-top: 1px solid $text;
+  padding: 0.5rem 0 0.5rem;
+  &__small {
+    text-align: right;
+  }
+}

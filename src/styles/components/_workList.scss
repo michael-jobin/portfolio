@@ -1,0 +1,45 @@
+.workList {
+  padding-bottom: 1rem;
+  &__picture {
+    height: 34.1rem;
+    background-color: $grey;
+    @include sp {
+      height: 26rem;
+    }
+    img {
+      transition: opacity 0.6s ease-in-out;
+    }
+  }
+  &__item {
+    position: relative;
+    grid-column: span 2;
+    @include sp {
+      grid-column: span 6;
+    }
+    .basic__button {
+      opacity: 0;
+      position: absolute;
+      /* left: 50%;
+      transform: translateX(-50%); */
+      right: 1.2rem;
+      bottom: 2rem;
+    }
+    span {
+      &:after {
+        content: '';
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 2px;
+        width: calc(100% - 1.5rem);
+        background-color: $text;
+      }
+    }
+    &:hover {
+      .basic__button {
+        opacity: 1;
+      }
+    }
+  }
+}

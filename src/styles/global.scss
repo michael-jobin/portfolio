@@ -1,0 +1,28 @@
+@charset 'UTF-8';
+@import 'abstracts/_variables';
+@import 'abstracts/_fonts';
+
+//base
+@import 'base/_reset';
+@import 'base/_base';
+
+//components
+@import 'components/_basics';
+// @import 'components/_video';
+@import 'components/_workList';
+// @import 'components/_tagSelect';
+@import 'components/_buttonScrollTop';
+@import 'components/_menu';
+
+//sections
+@import 'sections/_header';
+@import 'sections/_footer';
+@import 'sections/_workDetail';
+@import 'sections/_workGallery';
+
+//pages
+@import 'pages/_home';
+@import 'pages/_about';
+
+//languages
+@import 'languages/_japanese';

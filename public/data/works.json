@@ -1,0 +1,1663 @@
+{
+  "works": [
+    {
+      "slug": "riso-education",
+      "client": "理想科学工業株式会社",
+      "year": 2024,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Riso Education landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "理想科学教育についてLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "Visit Site",
+        "url": "https://www.riso.co.jp/product/lp/education/index.php",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "gabi",
+      "client": "Gabi Brewer",
+      "year": 2024,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Gabi's Portfolio website coding.\nDesign and Direction by Gabi Brewer.",
+      "descriptionJa": "ガビちゃんのポートフォリオサイトのコーディングです。\nデザインとディレクション： Gabi Brewer",
+      "link": {
+        "text": "www.gabibrewer.com",
+        "url": "https://www.gabibrewer.com/",
+        "active": true
+      },
+      "tags": [
+        "all",
+        "selection"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "ise-flownal",
+      "client": "イセフローナル",
+      "year": 2024,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Ise Flownal Ec website coding with shopify.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "イセフローナルのECサイトのコーディングです。\nShopifyを使っています。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "iseflownal.jp",
+        "url": "https://iseflownal.jp/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "ajuga",
+      "client": "アジュガ",
+      "year": 2023,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Ajuga website coding using Future shop cms.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "アジュガのECサイトのコーディングです。\n フューチャーショップを使っています。\nデザインとディレクション：Ondo-inc.",
+      "link": {
+        "text": "ajuga.shop",
+        "url": "https://www.ajuga.shop/",
+        "active": true
+      },
+      "tags": [
+        "all",
+        "selection"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "hasMobileView": true,
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "arluis-miyakojima",
+      "client": "アールイズ・ウエディング",
+      "year": 2023,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Arluis Wedding Miyakojima landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "宮古島チャペル at Hilton グランドオープンのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "arluis.com/fair/miyakojima",
+        "url": "https://www.arluis.com/fair/miyakojima/",
+        "active": true
+      },
+      "tags": [
+        "all",
+        "selection"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-recruit",
+      "client": "株式会社ビューティガレージ",
+      "year": 2023,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Beauty Garage Recruit website coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "ビューティガレージ採用サイトのコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "recruit.beautygarage.co.jp",
+        "url": "https://recruit.beautygarage.co.jp/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bodywork",
+      "client": "株式会社ボディワークホールディングス グループ総合",
+      "year": 2023,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Bodywork Holdings Recruit website coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "ボディワークホールディングス採用サイトのコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "recruit.bodywork-holdings.co.jp/",
+        "url": "https://recruit.bodywork-holdings.co.jp/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "hakko-anko-sand",
+      "client": "発酵あんこサンド",
+      "year": 2023,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Hakko Anko Sand website coding using color-me cms.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "発酵あんこサンドECサイトのコーディングです。\nカラーミーを使っています。おやすみ中です。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "hakko-anko-sand.com",
+        "url": "https://hakko-anko-sand.com/",
+        "active": false
+      },
+      "tags": [
+        "all",
+        "selection"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "umiral",
+      "client": "Umiral",
+      "year": 2023,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Umiral website coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "Umiralのサイトのコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "umiral.jp",
+        "url": "https://umiral.jp/",
+        "active": true
+      },
+      "tags": [
+        "all",
+        "selection"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-dk-medic",
+      "client": "株式会社ビューティガレージ",
+      "year": 2022,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "DK Medic landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "DK MedicのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "www.beautygarage.jp/pickup/dkmedic",
+        "url": "",
+        "active": false
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-eleganjet",
+      "client": "株式会社ビューティガレージ",
+      "year": 2022,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Eleganjet landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "エレガンジェットヘアドライヤーのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "beautygarage.jp/pickup/eleganjet",
+        "url": "https://www.beautygarage.jp/pickup/eleganjet",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-oem",
+      "client": "株式会社ビューティガレージ",
+      "year": 2022,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "OEM landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "サロンOEMのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "beautygarage.jp/pickup/oem",
+        "url": "https://www.beautygarage.jp/pickup/oem",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-paul-scerri",
+      "client": "株式会社ビューティガレージ",
+      "year": 2022,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Paul Scerri landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "ポールシェリのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "beautygarage.jp/pickup/paulscerri",
+        "url": "https://www.beautygarage.jp/pickup/paulscerri",
+        "active": true
+      },
+      "tags": [
+        "all",
+        "selection"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-salon-ec",
+      "client": "株式会社ビューティガレージ",
+      "year": 2022,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Salon EC landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "サロンECのサイトコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "salon.ec/",
+        "url": "https://salon.ec/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-styling-chair",
+      "client": "株式会社ビューティガレージ",
+      "year": 2022,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Styling Chair landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "スタイリングチェアのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "beautygarage.jp/pickup/stylingchair",
+        "url": "https://www.beautygarage.jp/pickup/stylingchair",
+        "active": true
+      },
+      "tags": [
+        "all",
+        "selection"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "sensyn-robotics-skydio",
+      "client": "株式会社センシンロボティクス",
+      "year": 2022,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Skydio landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "SkydioのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "skydio.sensyn-robotics.com/",
+        "url": "",
+        "active": false
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-cado-cuaura",
+      "client": "株式会社ビューティガレージ",
+      "year": 2021,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Cado Cuaura landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "cado cuauraストレートヘアアイロンのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "beautygarage.jp/pickup/cadocuaura",
+        "url": "https://www.beautygarage.jp/pickup/cadocuaura",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-denki",
+      "client": "株式会社ビューティガレージ",
+      "year": 2021,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "BG Denki website coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "BGでんきのサイトコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "denki.beautygarage.jp/",
+        "url": "https://denki.beautygarage.jp/",
+        "active": true
+      },
+      "tags": [
+        "all",
+        "selection"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "bg-schwarzkopf",
+      "client": "株式会社ビューティガレージ",
+      "year": 2021,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Schwarzkopf Fibreplex landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "ファイバープレックス,シュワルツコフのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "www.beautygarage.jp/pickup/fibreplex/",
+        "url": "https://www.beautygarage.jp/pickup/fibreplex/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "ohni",
+      "client": "株式会社 大仁商店",
+      "year": 2021,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Ohni website coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "大仁商店のサイトコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "ohni.jp/",
+        "url": "https://ohni.jp/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "riso-orphis",
+      "client": "理想科学工業株式会社",
+      "year": 2021,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Riso Orphis landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "オルフィスGL スペシャルLPのコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "Visit Site",
+        "url": "https://www.riso.co.jp/product/orphis/lp/gl/index.php",
+        "active": true
+      },
+      "tags": [
+        "all",
+        "selection"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "riso-sukurire",
+      "client": "理想科学工業株式会社",
+      "year": 2021,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Riso Sukurire landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "スクリレのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "sukurire.jp/",
+        "url": "",
+        "active": false
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "tvc",
+      "client": "株式会社TVC",
+      "year": 2021,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "TVC recruiting landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "TVCの採用LPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "tvc.co.jp/recruit2/",
+        "url": "https://www.tvc.co.jp/recruit2/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "arluis-movie",
+      "client": "アールイズ・ウエディング",
+      "year": 2020,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Arluis Wedding Special Movie landing page coding.\nDesign and Direction by Ondo-inc.",
+      "descriptionJa": "アールイズ・ウエディングのスペシャルムービーのLPコーディングです。\nデザインとディレクション： Ondo-inc.",
+      "link": {
+        "text": "arluis.com/fair/specialmovie/",
+        "url": "",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "amagasaki",
+      "client": "尼崎医療生協病院",
+      "year": 2020,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Amagasaki Hospital website coding.\nDesign and Direction by Queserser&Company",
+      "descriptionJa": "尼崎医療生協病院のサイトコーディングです。\nデザイン/ディレクション：Queserser&Company",
+      "link": {
+        "text": "ama-hch.jp/",
+        "url": "https://ama-hch.jp/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "minatoryo",
+      "client": "社会福祉法人みなと寮",
+      "year": 2020,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Minatoryo website coding.\nDesign and Direction by Queserser&Company",
+      "descriptionJa": "社会福祉法人みなと寮のサイトコーディングです。\nデザイン/ディレクション：Queserser&Company",
+      "link": {
+        "text": "www.minatoryo.or.jp/",
+        "url": "http://www.minatoryo.or.jp/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "joyofukushikai",
+      "client": "社会福祉法人城陽福祉会",
+      "year": 2019,
+      "roleEn": "Coding",
+      "roleJa": "コーデイング",
+      "descriptionEn": "Joyo Fukushikai's recruit website coding.\nDesign and Direction by Queserser&Company",
+      "descriptionJa": "社会福祉法人城陽福祉会の採用サイトコーディングです。\nデザイン/ディレクション：Queserser&Company",
+      "link": {
+        "text": "joyofukushikai.com/saiyo/",
+        "url": "https://joyofukushikai.com/saiyo/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "hannan",
+      "client": "阪南大学",
+      "year": 2018,
+      "roleEn": "Coding",
+      "descriptionEn": "Hannan University landing page coding.\nDesign and Direction by Queserser&Company",
+      "descriptionJa": "阪南大学のLPコーディングです。\nデザイン/ディレクション：Queserser&Company",
+      "link": {
+        "text": "hannan-u.ac.jp/special/whywhyuniv/",
+        "url": "https://www.hannan-u.ac.jp/special/whywhyuniv/",
+        "active": true
+      },
+      "tags": [
+        "all"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".png",
+          "width": 2360,
+          "height": 1686
+        }
+      ]
+    },
+    {
+      "slug": "school-niwa",
+      "client": "HEAD",
+      "year": 2017,
+      "roleEn": "Illustration",
+      "roleJa": "イラスト",
+      "descriptionEn": "Set of 3 notebooks & 6 poscards 80p. b/w Charcoal\nNiwa is a set of three drawings books about Japanese gardens. It explores the relation between the randomness of nature and the attempt of humans to evoke or recreate it through gardens.",
+      "descriptionJa": "80ページ 白黒 \n木炭3冊で構成し、日本の園を表現。\n自由で予測不可能な自然、それを庭の中に再現しようとする人間の試みについて、考える。",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_04",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_05",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_06",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_07",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_08",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_09",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_10",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_11",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_28",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_24",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_12",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_13",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_14",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_15",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_16",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-cultura",
+      "client": "HEAD",
+      "year": 2016,
+      "roleEn": "Photo/Design",
+      "roleJa": "写真・デザイン",
+      "descriptionEn": "Photography publication project\nNathalie Du Pasquier did an exhibition in Geneva in collaboration with the University of Art & Design. A group of students was selected to photograph this exhibition and create an editorial object that would not be a catalogue of the pieces, but an alternative look at this exhibition.\nIn collaboration with: Morgan Carlier,Vanessa Cojocaru, Bastien Gomez, Rebecca Metzger\nBook Reproduction: Raphaelle Mueller",
+      "descriptionJa": "ジュネーブで開催されたナタリー・デュ・パスキエによる個展。ジュネーヴ造形芸術大学共催。同大学から選ばれた学生により館内に展示された作品の写真撮影が行われた。その写真の数々を、新たな作品としてひとつの本に。目の前で見るのとはひと味違う、個展の楽しみ方となった。\n参加者: Morgan Carlier, Vanessa Cojocaru, Bastien Gomez, Rebecca Metzger. Book Reproduction: Raphaelle Mueller.",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_09",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_10",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_04",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_06",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-bag",
+      "client": "KUAD",
+      "year": 2016,
+      "roleEn": "Design",
+      "roleJa": "デザイン",
+      "descriptionEn": "Silkscreen printing on totebag\nThis design was selected by the international relation’s office of the Kyoto University of Art & Design. They offer bags as a souvenir to the school’s guests.I wanted to do a very simple design to evoke the thread of a o-mamori so this bag would be itself a talisman to travel back home safely.",
+      "descriptionJa": "京都造形芸術大学国際交流オフィスにて採用されたデザイン。このバッグは、来校されたお客様へ、大学側からのお土産。日本の“お守り”から着想を得た、一本の糸。無事、ご帰宅なさいますように、という願いを込めて。",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_04",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_05",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-waiting",
+      "client": "HEAD",
+      "year": 2017,
+      "roleEn": "Photo",
+      "roleJa": "写真",
+      "descriptionEn": "Personal Photography Project\nZine 32p. laser color",
+      "descriptionJa": "「まだ見ぬ先に」 写真プロジェクト。\nジン 32ページ カーラーレーザー印刷",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_04",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_05",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_06",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_07",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_08",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_09",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_10",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_11",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-eclipse",
+      "client": "HEAD",
+      "year": 2000,
+      "roleEn": "TypeDesign",
+      "roleJa": "書体デザイン",
+      "descriptionEn": "Type design practice.\nCreated during a workshop with Ian Party ( Swisstypefaces )",
+      "descriptionJa": "書体デザイン練習。\nWorkshop with Ian Party ( swisstypefaces )",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-incoming",
+      "client": "HEAD",
+      "year": 2016,
+      "roleEn": "Photo",
+      "roleJa": "写真",
+      "descriptionEn": "Photography Project Zine 20 p. + 1 poster, laser color print",
+      "descriptionJa": "写真プロジェクト。\nジン 20 ページ + 1 ポスターカーラーレーザー印刷",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_04",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_05",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_06",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_07",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_08",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_09",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_11",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_15",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-forest",
+      "client": "KUAD",
+      "year": 2016,
+      "roleEn": "Photo/Design",
+      "roleJa": "写真・デザイン",
+      "descriptionEn": "Prints & Zine 20p. mixed printmaking techniques",
+      "descriptionJa": "版画印刷 & ジン （20ページ）",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_04",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_05",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_06",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_08",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_09",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_10",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_12",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_13",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_14",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-cheptel",
+      "client": "HEAD",
+      "year": 2015,
+      "roleEn": "Design",
+      "roleJa": "デザイン",
+      "descriptionEn": "Logo, posters, cd/vinyl cover\nCheptel is a Geneva-based music records label. I designed their logo, a cd/vinyl cover and I also made 2 posters for concerts. The music of the band they produce is very original, sometimes quite tripping. I always tried to use some elements from their lyrical universe and assemble them in a way the music inspires me.",
+      "descriptionJa": "ロゴ, ポスター, CDカバー\nCheptelはジュネーブに本社があるレコード会社。この会社のロゴをデザインさせて頂きました。その他、同会社に所属するバンドのCDジャケットのデザイン、コンサートのポスターデザインも数回作成。楽曲はオリジナリティーに溢れ、トリップしているような感覚に陥ることも。音を通して伝わる彼らの世界観、そこから抽出した要素を、デザインに込めた。",
+      "tags": [
+        "school"
+      ],
+      "link": {
+        "text": "cheptelrecords.com/",
+        "url": "http://cheptelrecords.com/",
+        "active": true
+      },
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_07",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_08",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_09",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_04",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_05",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_06",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-ultraman",
+      "client": "KUAD",
+      "year": 2016,
+      "roleEn": "Illustration",
+      "roleJa": "イラスト",
+      "descriptionEn": "Ultraman Space monster bemular appears\nZine, Silkscreen\nIn an illustration course, I had to recreate a famous story. I picked a TV show almost everybody knows in Japan called Ultraman. <br>I wondered, what is a story that everybody knows? It is as a reference, a common knowledge we can use to transmit messages, values, or morality. So I reinterpreted the manichaean story of an episode of Ultraman as a testimony of how Ultraman our savior, came from the world of the light to save humanity, almost like in religion. As an Egyptian's hieroglyph, I tried to draw it in a symbolic manner with just a few words, so people can interpret the story in their own way.",
+      "descriptionJa": "ウルトラマン　宇宙怪獣ベムラー登場\nジン, シルクスクリーン\n学生時代、イラストレーションコースで有名な題材を用いながら、それを作り変えるという課題があった。選んだのは、ウルトラマン。日本人なら、誰もが知っている。\nふと、みんなが知っている話には、それ自体に役割があるんじゃないかと考えた。僕らはそれを引き合いに出し、大切な何かを伝えるんだ、と。価値観を共有したり、道徳を説いたりするために。ウルトラマンが正義のために悪と戦うシーンは、彼が人類を救うため、救世主として光の国からやってきたんじゃないかと僕に思わせた。このデザインは、古代エジプトの象形文字のように、多くを語らないシンプルな形で表すことを心がけた。そこに、あらゆる解釈の余地が生まれる。",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_04",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_05",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_06",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_07",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-ug",
+      "client": "",
+      "year": 2016,
+      "roleEn": "Design",
+      "roleJa": "デザイン",
+      "descriptionEn": "Pamphlet and photographies for the\nExhibition at Kyoto University of Art & Design\nInformation Design section class A",
+      "descriptionJa": "写真とパンフレット。\n京都造形芸術大学 情報デザイン科　A領域展示",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-wabi",
+      "client": "KUAD",
+      "year": 2016,
+      "roleEn": "Photo",
+      "roleJa": "写真",
+      "descriptionEn": "Studies Of Japanese Aesthetics — wabi sabi —\nPhotos & Texts ( Book design by Mimasu Yusuke )\nI contributed to the development of an editorial project made at the Kyoto University of Art & Design. This book is a research on the meaning of the Japanese aesthetic named wabi - sabi. I was given the opportunity to express in this publication, two examples of my personal interpretation of wabi-sabi.",
+      "descriptionJa": "写真と文章。（ブックデザイン：見増勇介）\n京都造形芸術大学で行った、本の制作。題材は、日本の美意識である、侘び寂び。\n自分が考える侘び寂びの概念を、本という媒体の中で、2つ表現することができた。",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-comedie",
+      "client": "HEAD",
+      "year": 2016,
+      "roleEn": "Design",
+      "roleJa": "デザイン",
+      "descriptionEn": "Poster for a play (895mm x 1280mm)\nCreated during a workshop exercice with Flavia Cocchi (Atelier Cocchi)\nPierre Corneille's play is about the relation between fiction and reality, so I used the reflection of the letters to express that there are alternative ways to read and understand a piece. The truth can be somewhere between these lines.",
+      "descriptionJa": "演劇のポスター（895mm x 1280mm）\nフラヴィア・コッチとのワークショップ練習にて。\nピエール・コルネイユの劇は、現実世界と虚構がテーマ。\nそこから着想を得たのが、文字と影。どんな物事にも、別の解釈が存在する。それを2種類の線を使って表現した。私達が追い求める真実は、現実と虚構、どちらの線の中にあるのだろうか。",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-kuad",
+      "client": "KUAD",
+      "year": 2016,
+      "roleEn": "Design",
+      "roleJa": "デザイン",
+      "descriptionEn": "International Students Projet Exhibition's poster",
+      "descriptionJa": "京都造形芸術大学留学生展のポスター",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        }
+      ]
+    },
+    {
+      "slug": "school-kintsugi",
+      "client": "KUAD",
+      "year": 2016,
+      "roleEn": "Design",
+      "roleJa": "デザイン",
+      "descriptionEn": "Concept book, photography, logo, poster\nKintsugi is the Japanese art of repairing broken pottery with lacquer mixed with powdered gold. As a philosophy, it considers breakage and repair as part of the history of an object, rather than something to disguise. This project is an example of a way to introduce this technique and apply it not only on pottery but with other elements from the daily modern life.",
+      "descriptionJa": "コンセプトブック、写真、ロゴ、ポスター\n金継ぎは、割れた器を漆と金粉を使って修復する日本の伝統技法。ヒビや欠けを隠すのではなく、金でつなぐ。このプロジェクトの目的は、修復にとどまらない新たな金継ぎの魅力を紹介すること。金継ぎが、現代に新たな一面を見せてくれる。",
+      "tags": [
+        "school"
+      ],
+      "medias": [
+        {
+          "type": "image",
+          "fileName": "img_01",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_02",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_03",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_04",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_05",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_06",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_07",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_08",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_09",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_10",
+          "imgFileFormat": ".jpg",
+          "width": 2360,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_13",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_12",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        },
+        {
+          "type": "image",
+          "fileName": "img_15",
+          "imgFileFormat": ".jpg",
+          "width": 1170,
+          "height": 1755
+        }
+      ]
+    }
+  ]
+}
