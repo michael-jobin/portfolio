@@ -36,9 +36,11 @@
         background-color: $text;
       }
     }
-    &:hover {
-      .basic__button {
-        opacity: 1;
+    @include pc {
+      &:hover {
+        .basic__button {
+          opacity: 1;
+        }
       }
     }
   }

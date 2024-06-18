@@ -24,13 +24,13 @@
     grid-column: 6 / span 1;
     text-align: right;
     @include sp {
-      grid-column: 1 / span 2;
+      grid-column: 5 / span 2;
     }
   }
   &__main {
     grid-column: 1 / span 3;
     @include sp {
-      grid-column: 3 / span 4;
+      grid-column: 1 / span 4;
     }
     strong,
     i {

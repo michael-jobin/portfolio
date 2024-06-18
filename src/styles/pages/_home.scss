@@ -17,7 +17,7 @@
     margin-bottom: 1rem;
     text-align: left;
     @include sp {
-      height: calc(var(--vh) * 100 - var(--header-height) - 26rem - 2rem);
+      height: 28rem;
     }
   }
   // @include sp {
