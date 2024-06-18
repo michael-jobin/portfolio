@@ -7,7 +7,6 @@ import { ReactLenis, useLenis } from 'lenis/react'
 import Footer from './sections/Footer'
 import ButtonScrollTop from './components/ButtonScrollTop'
 import Menu from './components/Menu'
-import CldPicture from './components/CldPicture'
 
 const Layout = () => {
   const { language } = useSelector((state: RootState) => state.languages)
