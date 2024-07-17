@@ -13,6 +13,7 @@
     "@cloudinary/react": "^1.13.0",
     "@cloudinary/url-gen": "^1.19.0",
     "@fontsource-variable/noto-sans-jp": "^5.0.19",
+    "@gsap/react": "^2.1.1",
     "@reduxjs/toolkit": "^2.2.5",
     "autoprefixer": "^10.4.19",
     "gsap": "^3.12.5",

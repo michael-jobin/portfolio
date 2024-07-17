@@ -34,7 +34,9 @@ const About = () => {
                 {item.begin}
                 {item.end && (
                   <>
-                    &thinsp;ー&thinsp;
+                    &thinsp;ー
+                    <br className="sp" />
+                    &thinsp;
                     {item.end}
                   </>
                 )}

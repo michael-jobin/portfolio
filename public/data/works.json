@@ -88,8 +88,8 @@
       "descriptionEn": "Ajuga website coding using Future shop cms.\nDesign and Direction by Ondo-inc.",
       "descriptionJa": "アジュガのECサイトのコーディングです。\n フューチャーショップを使っています。\nデザインとディレクション：Ondo-inc.",
       "link": {
-        "text": "ajuga.shop",
-        "url": "https://www.ajuga.shop/",
+        "text": "site sample",
+        "url": "https://michael-jobin.github.io/site-sample02/",
         "active": true
       },
       "tags": [
@@ -196,8 +196,8 @@
       "descriptionJa": "発酵あんこサンドECサイトのコーディングです。\nカラーミーを使っています。おやすみ中です。\nデザインとディレクション： Ondo-inc.",
       "link": {
         "text": "hakko-anko-sand.com",
-        "url": "https://hakko-anko-sand.com/",
-        "active": false
+        "url": "https://michael-jobin.github.io/site-sample01/",
+        "active": true
       },
       "tags": [
         "all",

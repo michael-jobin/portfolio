@@ -2,7 +2,7 @@
   &__head {
     text-align: center;
     border-bottom: 1px solid $text;
-    // padding: 2rem 0 2rem;
+    //padding: 2rem 0;
     padding: var(--basic-padding-top) 0 var(--basic-padding-bottom);
     @include sp {
       text-align: left;
@@ -15,8 +15,10 @@
   &__row {
     // padding: 2rem 0;
     &:not(:last-child) {
-      padding-bottom: 2rem;
-      // border-bottom: 1px solid $text;
+      padding-bottom: 3rem;
+      //  @include sp{
+
+      //  }
     }
   }
   &__years {
